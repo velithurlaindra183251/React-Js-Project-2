@@ -1,0 +1,69 @@
+.articletop {
+  padding: 30px;
+  margin: 30px;
+  background-color: rgb(6, 5, 5);
+  text-align: center;
+}
+
+.descriptionImage {
+  max-width: 100%;
+  height: auto;
+  border: 2px solid hsl(0, 0%, 3%);
+  border-radius: 80px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.card {
+  width: 350px;
+  height: 400px;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+
+.card-img-top {
+  width: 350px;
+  height: 350px;
+  padding: 20px;
+  border: solid 1px rgb(1, 0, 0);
+
+}
+
+
+.headingtop {
+  text-align: center;
+}
+
+.searchtop {
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px;
+  border-color: rgb(247, 6, 6);
+  margin-right: 10px;
+  width: 60%;
+  margin-left: 20%;
+  color: rgb(12, 12, 12);
+  font-weight: 700;
+}
+
+.submittop {
+  padding: 3px;
+  border-radius: 5px;
+  border-color: rgb(250, 0, 0);
+  font-weight: 500;
+}
+
+.bottom {
+  text-align: center;
+  color: red;
+  font-weight: 600;
+  padding: 10px;
+}
+
+.navbar {
+  color: white;
+  padding: 30px;
+  font-size: 18px;
+  background-color: rgb(246, 239, 105);
+  border: solid 1px black;
+  color: rgb(60, 57, 57);
+}
